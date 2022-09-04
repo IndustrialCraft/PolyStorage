@@ -1,0 +1,58 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "polystorage:font/lock.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        "L"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "polystorage:font/void.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        "V"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "polystorage:font/t1.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        "1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "polystorage:font/t2.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        "2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "polystorage:font/t3.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        "3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "polystorage:font/t4.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        "4"
+      ]
+    }
+  ]
+}
